@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+scanText in Pods, no dependencies
+Pods-packager in Pods, depends on:
+scanText in Pods (explicit)

@@ -1,0 +1,6 @@
+use_frameworks!
+target 'scanText_Tests' do
+  pod 'scanText', :path => '../'
+  
+  
+end

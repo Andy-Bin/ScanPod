@@ -1,0 +1,22 @@
+{
+  "name": "scanText",
+  "version": "0.1.0",
+  "summary": "A short description of scanText.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ellisonpei/scanText",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ellisonpei": "1393295403@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/ellisonpei/scanText.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "scanText/Classes/**/*"
+}
