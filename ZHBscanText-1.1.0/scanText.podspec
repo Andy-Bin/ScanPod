@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'scanText'
-  s.version          = '4.4.4'
+  s.name             = 'ZHBscanText'
+  s.version          = '1.1.0'
   s.summary          = '第2次测试上传'
 
 # This description is used to generate tags and improve search results.
@@ -25,12 +25,12 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ellisonpei' => '1393295403@qq.com' }
-  s.source           = { :git => 'https://github.com/Andy-Bin/ScanPod.git', :tag => '4.4.4'}
+  s.source           = { :git => 'https://github.com/Andy-Bin/ScanPod.git', :tag => '0.1.1'}
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'Classes/**/*'
+  s.source_files = 'scanText/Classes/**/*'
   
   # s.resource_bundles = {
   #   'scanText' => ['scanText/Assets/*.png']
